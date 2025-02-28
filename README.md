@@ -17,7 +17,7 @@ Software Engineering with 3+ years of work experience in full-stack development,
 - ⚡ Proficient at collaborating with cross functional teams, designing scalable applications, and dedicated in delivering impactful results. Currently 
 headed towards learning and leveraging advanced AI concepts like RAG to solve domain specific LLM problems. 
 - 🔭 I’m currently working on project a Retrieval Augumented Genegration Project to identify spans of texts which can be potential hyperlinks
-   and retrieve texts with further explains the hyperlinked text.
+   and retrieve texts which further explains the hyperlinked text.
 - 📫 How to reach me: mukhil1140@gmail.com
 - 😄 Pronouns: He/Him
 
